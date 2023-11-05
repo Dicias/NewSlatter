@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('./fonts/Roboto-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('./fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+.roboto-font{
+  font-family: 'Roboto-Regular';
+}
+.roboto-bold-font{
+  font-family: 'Roboto-Bold';
+}
+.btn-bg{
+  background-color: hsl(234, 29%, 20%);
+}
+
+.btn-bg:hover{
+  background-color: hsl(4, 100%, 67%);
+  box-shadow: '0px 25px 50px -12px hsla(4, 100%, 67%, 0.7) 0px 25px 50px -12 hsla(4, 100%, 67%, 0.7)'
+}
