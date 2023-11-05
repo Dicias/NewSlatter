@@ -9,7 +9,7 @@ const SubDesign = ({email, comeBack} : DesignProps): JSX.Element =>{
       <section className='flex-col sm:flex sm:flex-col bg-white max-w-screen sm:max-w-md  h-screen sm:h-min sm:rounded-3xl  roboto-font sm:p-5'>
 
         <section className='flex flex-col sm:justify-center sm:max-w-md h-2/5 justify-end'>
-        <img className=' w-16 mx-5 my-10 sm:my-5' src='/icon-success.svg' alt='icon-success' />
+        <img className=' w-16 mx-5 my-10 sm:my-5' src='icon-success.svg' alt='icon-success' />
         <h1 className=' text-5xl sm:text-5xl roboto-bold-font  mx-5 text-slate-800'>Thanks for subscribing!</h1>
         </section>
 
