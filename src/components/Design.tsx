@@ -44,12 +44,12 @@ const Design = ({ errorValidator, error }: DesignProps): React.ReactNode => {
   </span>
 
   <span className='flex box-content'>
-  <img className=' w-6 ' src='/public/icon-list.svg' alt='icon-success' />
+  <img className=' w-6 ' src='icon-list.svg' alt='icon-success' />
 <p className='my-2 mx-3'>Measuring to ensure updates are a success</p>
 </span>
 
 <span className='flex box-content'>
-<img className=' w-6 ' src='/assets/icon-list.svg' alt='icon-success' />
+<img className=' w-6 ' src='icon-list.svg' alt='icon-success' />
 <p className='my-2 mx-3'>And much more!</p>
 </span>
       </section>
