@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/Dicias/NewSlatter)
-- Live Site URL: [Live page](https://your-live-site-url.com)
+- Live Site URL: [Live page](https://dicias.github.io/NewSlatter/)
 
 ### Built with
 

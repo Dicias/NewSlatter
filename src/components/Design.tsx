@@ -39,17 +39,17 @@ const Design = ({ errorValidator, error }: DesignProps): React.ReactNode => {
         <p className='my-4'>Join 60,000+ product managers receiving monthly updates on:</p>
       
         <span className=' flex box-content'>
-        <img className=' w-6 ' src='icon-success.svg' alt='icon-success' />
+        <img className=' w-6 ' src='../../assets/icon-success.svg' alt='icon-success' />
   <p className='my-2 mx-3'>Product discovery and building what matters</p>
   </span>
 
   <span className='flex box-content'>
-  <img className=' w-6 ' src='icon-success.svg' alt='icon-success' />
+  <img className=' w-6 ' src='../../assets/icon-success.svg' alt='icon-success' />
 <p className='my-2 mx-3'>Measuring to ensure updates are a success</p>
 </span>
 
 <span className='flex box-content'>
-<img className=' w-6 ' src='icon-success.svg' alt='icon-success' />
+<img className=' w-6 ' src='../../assets/icon-success.svg' alt='icon-success' />
 <p className='my-2 mx-3'>And much more!</p>
 </span>
       </section>
